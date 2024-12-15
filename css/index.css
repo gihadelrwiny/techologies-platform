@@ -45,11 +45,15 @@
     text-transform:capitalize;
     opacity:0.6;
 }
+.ssecond{
+    text-align: center;
+}
 .secondpage{
     height: 705px;
     width:100%;
     background-color:rgba(223, 231, 238, 0.871);
     margin: auto;
+   
 }
 .p2second{
     color:grey;
